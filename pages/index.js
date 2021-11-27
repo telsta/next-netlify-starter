@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Telsta Group ! ( PVR's initiative )" />
         <p className="description">
-          Coming Soon <code>pages/index.js</code>
+          Coming Soon
         </p>
       </main>
 
